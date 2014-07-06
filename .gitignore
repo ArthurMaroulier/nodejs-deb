@@ -1,3 +1,4 @@
 Vagrantfile
 bootstrap.sh
 provisioningReport.txt
+.vagrant
